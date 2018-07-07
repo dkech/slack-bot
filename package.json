@@ -2,10 +2,10 @@
   "name": "mainbot",
   "version": "1.0.0",
   "description": "slack centran bot",
-  "main": "./mainbot/bot.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node mainbot/bot.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
